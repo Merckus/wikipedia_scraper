@@ -1,5 +1,5 @@
 # <img src='Wikipedia-logo-v2.svg.png' height='50'></a> Wikipedia Scraper
-This project scrapes all featured wikipedia articles from 2005-2009, saves their published date, title, and character count into a csv, and then generates a histogram to visualize the distribution of length of the featured articles.
+This project scrapes all featured wikipedia articles from 2005-2009, saves their published date, title, and character count into a csv, then generates a histogram to visualize the distribution of length of the featured articles.
 
 ## How It's Made:
 
